@@ -6,7 +6,7 @@
       <key>copyright</key>
       <string>Copyright (c) 2007-2010 The Khronos Group Inc.</string>
       <key>description</key>
-      <string>glext headers define function prototypes and constants for OpenGL extensions </string>
+      <string>glext headers define function prototypes and constants for OpenGL extensions</string>
       <key>license</key>
       <string>Copyright (c) 2007-2010 The Khronos Group Inc.</string>
       <key>license_file</key>
